@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c98e7565-59aa-443c-b87a-6364409dc98f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GeneratingRandomValues.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyPiandPIP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkingWithDirectories.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +52,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PyPiandPIP">
+  <component name="RunManager" selected="Python.WorkingWithDirectories">
     <configuration name="GeneratingRandomValues" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,8 +242,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PyPiandPIP" />
         <item itemvalue="Python.WorkingWithDirectories" />
+        <item itemvalue="Python.PyPiandPIP" />
         <item itemvalue="Python.GeneratingRandomValues" />
         <item itemvalue="Python.app2" />
         <item itemvalue="Python.app1" />
@@ -304,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675967795574</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changes on feb 9th #2">
+      <created>1675971108791</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675971108791</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,6 +327,7 @@
     <MESSAGE value="Added Move Zero program , BMI program on feb 6th 2023" />
     <MESSAGE value="changes on feb 8th" />
     <MESSAGE value="changes on feb 9th" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes on feb 9th" />
+    <MESSAGE value="changes on feb 9th #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes on feb 9th #2" />
   </component>
 </project>
