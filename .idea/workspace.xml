@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c98e7565-59aa-443c-b87a-6364409dc98f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BreakAndContinue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +53,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.NalgondaMLA">
-    <configuration name="GeneratingRandomValues" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BreakAndContinue">
+    <configuration name="BreakAndContinue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeneratingRandomValues.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BreakAndContinue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BreakAndContinue" />
         <item itemvalue="Python.NalgondaMLA" />
         <item itemvalue="Python.PrimeNumbersBtwInterval" />
         <item itemvalue="Python.WorkingWithDirectories" />
         <item itemvalue="Python.PyPiandPIP" />
-        <item itemvalue="Python.GeneratingRandomValues" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676766326241</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="changes on feb 18th #2">
+      <created>1676841068424</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676841068424</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
