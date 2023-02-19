@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c98e7565-59aa-443c-b87a-6364409dc98f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NalgondaMLA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -241,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676764321222</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="changes on feb 18th #2">
+      <created>1676766326241</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676766326241</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +269,7 @@
     <MESSAGE value="changes on feb 9th #2" />
     <MESSAGE value="changes on feb 11th #1" />
     <MESSAGE value="changes on feb 18th #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes on feb 18th #1" />
+    <MESSAGE value="changes on feb 18th #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes on feb 18th #2" />
   </component>
 </project>
